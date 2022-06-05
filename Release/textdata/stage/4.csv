@@ -1,0 +1,17 @@
+240
+yellow,2,9
+wall,32,1,lx=4,ly=7
+wall,32,12,lx=4,ly=7
+left,32,8,ly=4
+infbomb,8,14
+bchap2,15,1,lx=1
+bchap,15,3,lx=1
+akahebi,24,10,content=tr
+hebi,24,17
+queen,35,9
+flame,5,11
+flame,11,17
+frog,17,12
+chap2,19,9
+chap,19,9
+infbomb,31,4

@@ -1,0 +1,31 @@
+﻿  Main.cpp
+C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Object.hpp(720,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Main.cpp(28,28): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Main.cpp(54,16): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Main.cpp(56,18): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Main.cpp(57,18): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Main.cpp(160,31): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Main.cpp(193,22): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Main.cpp(237,31): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Main.cpp(272,30): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Main.cpp(293,30): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Main.cpp(321,29): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Main.cpp(338,30): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Main.cpp(376,30): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Main.cpp(392,30): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Main.cpp(403,32): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Main.cpp(410,29): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Main.cpp(474,28): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Main.cpp(487,28): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Main.cpp(502,28): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Main.cpp(572,25): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Main.cpp(667,19): warning C4244: '引数': 'time_t' から 'unsigned long' への変換です。データが失われる可能性があります。
+C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Main.cpp(726,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Main.cpp(740,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Main.cpp(785,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Main.cpp(799,46): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  コード生成しています。
+  Previous IPDB not found, fall back to full compilation.
+  All 925 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  PikminTreasureHunter.vcxproj -> C:\Users\hada  rion\ダウンロード\PikminTreasureHunter\Release\PikminTreasureHunter.exe
