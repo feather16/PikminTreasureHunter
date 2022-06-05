@@ -12,3 +12,5 @@ WASDで移動、Enterでアクション。
 
 # 実行
 `run.bat`
+
+https://user-images.githubusercontent.com/105288087/172034626-c23aa85e-f07f-482d-a3de-fd218cf11bd3.mp4
