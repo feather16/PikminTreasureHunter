@@ -15,7 +15,9 @@ WASDで移動、Enterでアクション。
 # 動作環境
 Windows (Windows 10で動作することを確認済み)
 
-# 実行
-`run.bat`
+# 実行方法
+1. このページの右上のCodeタブを選択しDownload Zipをクリックしてゲームをダウンロード
+2. Zipファイルを解凍
+3. 解凍したフォルダ内にあるrun.bat(またはrun)をダブルクリック
 
 https://user-images.githubusercontent.com/105288087/172034626-c23aa85e-f07f-482d-a3de-fd218cf11bd3.mp4
